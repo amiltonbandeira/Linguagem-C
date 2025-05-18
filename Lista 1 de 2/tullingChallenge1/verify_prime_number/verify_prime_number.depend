@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1747585983 source:/home/a/Documents/Linguagem-C/Lista 1 de 2/tullingChallenge1/verify_prime_number/main.c
+	<stdio.h>
+	<stdlib.h>
+

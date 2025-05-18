@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1747359531 source:/home/a/Documents/Linguagem-C/Lista 1 de 2/tullingChallenge1/tulling/main.c
+	<stdio.h>
+	<stdlib.h>
+

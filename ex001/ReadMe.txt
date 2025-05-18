@@ -1,0 +1,1 @@
+001. Escreva um programa em C que resolva um problema básico utilizando variáveis, entrada/saída, estruturas condicionais e loops. Exemplo: verificação de número primo, tabuada, fatorial, par/ímpar, conversão de temperaturas, etc.
